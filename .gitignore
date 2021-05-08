@@ -1,0 +1,4 @@
+bin/
+*.o
+circi/circi
+isog/isog
